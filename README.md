@@ -1,5 +1,7 @@
 # midnight-cloud-8-neovim
+
 MIDNIGHT CLOUD8 - Neovim Theme
+
 ![resim](https://user-images.githubusercontent.com/16112212/201318195-1cd74b33-aed7-4d16-8501-95708865e962.png)
 ![resim](https://user-images.githubusercontent.com/16112212/201318170-bb81b35a-003a-47d2-8136-458694f4f446.png)
 
